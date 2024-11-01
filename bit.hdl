@@ -1,0 +1,7 @@
+CHIP Bit {
+    IN in, load;
+    OUT out;
+
+    PARTS:
+    BUILTIN Bit;
+}
